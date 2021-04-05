@@ -1,0 +1,66 @@
+[
+  {
+    "name": "OKB",
+    "address": "0xda9d14072ef2262c64240da3a93fea2279253611",
+    "symbol": "OKB",
+    "decimals": 10,
+    "chainId": 65,
+    "logoURI": "https://static.bafang.com/cdn/assets/imgs/MjAyMDQ/19AB5B13ABAB1C5B4BD2D1D5277E00EB.png"
+  },
+  {
+    "name": "Wrapped OKT",
+    "address": "0x70c1c53e991f31981d592c2d865383ac0d212225",
+    "symbol": "WOKT",
+    "decimals": 10,
+    "chainId": 65,
+    "logoURI": "https://static.bafang.com/cdn/assets/imgs/MjAyMDQ/19AB5B13ABAB1C5B4BD2D1D5277E00EB.png"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0xe579156f9dEcc4134B5E3A30a24Ac46BB8B01281",
+    "symbol": "USDT",
+    "decimals": 10,
+    "chainId": 65,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "name": "USDCoin",
+    "address": "0x3e33590013b24bf21d4ccca3a965ea10e570d5b2",
+    "symbol": "USDC",
+    "decimals": 10,
+    "chainId": 65,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "USDK",
+    "address": "0x533367b864d9b9aa59d0dcb6554df0c89feef1ff",
+    "symbol": "USDK",
+    "decimals": 10,
+    "chainId": 65,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1c48f86ae57291F7686349F12601910BD8D470bb/logo.png"
+  },
+  {
+    "name": "BTCK",
+    "address": "0x09973e7e3914eb5ba69c7c025f30ab9446e3e4e0",
+    "symbol": "BTCK",
+    "decimals": 10,
+    "chainId": 65,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9BE89D2a4cd102D8Fecc6BF9dA793be995C22541/logo.png"
+  },
+  {
+    "name": "ETCK",
+    "address": "0xdf950cecf33e64176ada5dd733e170a56d11478e",
+    "symbol": "ETCK",
+    "decimals": 10,
+    "chainId": 65,
+    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.3/synths/iETC.svg"
+  },
+  {
+    "name": "FILK",
+    "address": "0xf6a0dc1fd1d2c0122ab075d7ef93ad79f02ccb93",
+    "symbol": "FILK",
+    "decimals": 10,
+    "chainId": 65,
+    "logoURI": "https://s2.bqiapp.com/logo/1/filecoinnew.png?x-oss-process=style/coin_72&v=1602728806"
+  }
+]
